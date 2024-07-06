@@ -1,4 +1,4 @@
-## Gerenciamento de usuários usando AspNet Identity
+## Gerenciamento de perfis de usuários usando AspNet Identity
 
 - Gerenciamento de perfis de usuário: User, Admin e SuperAdmin
 - Restrição de acesso baseado em Roles
