@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "knHEI8t5EUD4sm0iEFxoIK/9997Bgg8rSeLP9UHhroCl0hW9TM9Y8oSjXIQXVUZWSP30Wknz2LYfPg/ZRVMWuQ==",
+  "dgSpecHash": "DdWRB0ubRyXdTyBEVrFRxMo6pFGoWrhWA99ynS2rEEdsN++5VWinoKxmaFFcjy1c/139RSFvTmIbPVvJr09jIQ==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\GerenciamentoIdentity\\GerenciamentoIdentity\\GerenciamentoIdentity.csproj",
+  "projectFilePath": "C:\\Workspace\\GerenciamentoIdentity\\GerenciamentoIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
