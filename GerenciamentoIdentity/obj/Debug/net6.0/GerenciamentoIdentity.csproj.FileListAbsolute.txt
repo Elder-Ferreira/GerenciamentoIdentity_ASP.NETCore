@@ -303,8 +303,6 @@ C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identit
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.Build.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.Build.Framework.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -336,7 +334,6 @@ C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Logg
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -368,7 +365,6 @@ C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Configuration.Configu
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -518,7 +514,6 @@ C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-arm\native\Micr
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
@@ -541,11 +536,7 @@ C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-arm\native\e_sq
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\GerenciamentoIdentity.csproj.AssemblyReference.cache
 C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\GerenciamentoIdentity.GeneratedMSBuildEditorConfig.editorconfig
 C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\GerenciamentoIdentity.AssemblyInfoInputs.cache
@@ -572,3 +563,10 @@ C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\refint\GerenciamentoIdentity
 C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\GerenciamentoIdentity.pdb
 C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\GerenciamentoIdentity.genruntimeconfig.cache
 C:\Workspace\GerenciamentoIdentity\obj\Debug\net6.0\ref\GerenciamentoIdentity.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workspace\GerenciamentoIdentity\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
