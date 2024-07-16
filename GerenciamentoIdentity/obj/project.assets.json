@@ -11200,11 +11200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\GerenciamentoIdentity\\GerenciamentoIdentity.csproj",
+      "projectUniqueName": "C:\\Workspace\\GerenciamentoIdentity_ASP.NETCore\\GerenciamentoIdentity\\GerenciamentoIdentity.csproj",
       "projectName": "GerenciamentoIdentity",
-      "projectPath": "C:\\Workspace\\GerenciamentoIdentity\\GerenciamentoIdentity.csproj",
+      "projectPath": "C:\\Workspace\\GerenciamentoIdentity_ASP.NETCore\\GerenciamentoIdentity\\GerenciamentoIdentity.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\GerenciamentoIdentity\\obj\\",
+      "outputPath": "C:\\Workspace\\GerenciamentoIdentity_ASP.NETCore\\GerenciamentoIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
