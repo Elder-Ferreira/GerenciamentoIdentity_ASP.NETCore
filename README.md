@@ -5,6 +5,5 @@
 - Autenticação e autorização de novos usuários no sistema
 - Restrição a funções para usuários não autenticados no sistema
 - Criação de páginas para gerenciar dados do usuário
-- Recuperação de senha baseados em sistemas de autenticação externo
 - Mascaramento de links de acordo com usuário autenticado no sistema
 - Registro e recuperação de registros de login por ferramentas externas
