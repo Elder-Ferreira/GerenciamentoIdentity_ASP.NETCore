@@ -7,3 +7,4 @@
 - Criação de páginas para gerenciar dados do usuário
 - Mascaramento de links de acordo com usuário autenticado no sistema
 - Registro e recuperação de registros de login por ferramentas externas
+- Cadastro de um provedor de email para confirmação de identidade (Criação de novo usuário)
