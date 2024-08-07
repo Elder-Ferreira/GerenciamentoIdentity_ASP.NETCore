@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciamentoIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd4a3b2b51d10cd756860f5617ee76f74f87bb45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad5bf2c6a48d81eb742249ea6905955f0ce0143")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciamentoIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciamentoIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
