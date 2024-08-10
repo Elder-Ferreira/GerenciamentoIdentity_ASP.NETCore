@@ -8,3 +8,4 @@
 - Mascaramento de links de acordo com usuário autenticado no sistema
 - Registro e recuperação de registros de login por ferramentas externas
 - Cadastro de um provedor de email para confirmação de identidade (Criação de novo usuário)
+- Recuperação de senhas (configuração de método para recuperação de conta/senha do usuário)
